@@ -1,0 +1,61 @@
+{ 
+  "name":"Abhinaya (Abby) Prasad", 
+	"address":"700 9th St SW, Calgary, AB T2P2B5" ,
+	"phone":"403-404-6701","gmail":"abhinayaprasad1@gmail.com",
+	"linkedin":"LinkedIn: www.linkedin.com/in/abhinayaprasad",
+	"summaryheading":"Graduate in Computer Science and Engineering –"
+  "summary":"Cloud infrastructure certified, experience in Web Development - Built Websites using Bootstrap, phpMyAdmin, JavaScript, JQuery, CSS and HTML. Interested in writing, modifying, integrating and testing maintainable software code.",
+     "Skillhead":"SUMMARY OF SKILLS",
+     "skill1":"● C",
+     "skill2":"● C++",
+     "skill3":"● Java",
+     "skill4":"● AngularJS",
+     "skill5":"● MySQL",
+     "skill6":"● JavaScript",
+     "skill7":"● JQuery",
+     "skill8":"● Twitter Bootstrap",
+     "skill9":"● MS Office",
+     "skill10":"● Data Srtuctures",
+     "skill11":"● Algorithms",
+     "skill12":"● OOPs Concepts",
+     "skill13":"● DBMS",
+     "skill14":"● Pseudo Codes",
+     "skill15":"● Web Technology",
+     "Eduhead":" EDUCATION & TRAINING",
+     "edu1":"Bachelors of Engineering in Computer Science",
+     "uni1":"Anna University",
+     "course":"Courses include:",
+
+		"c1":"● Data Structures and Algorithms",
+		"c2":"● Probability and Queuing Theory",
+		"c3":"● Database Management Systems",
+		"c4":"● Theory of Computation",
+		"c5":"● Principles of Computer Design",
+            
+     "year1":"2011-2015",
+     "edu2":"EMC Academic Associate, Cloud Infrastructure and Services certificate",
+     "uni2":"Dell EMC",
+     "year2":"2014",
+     "edu3":"The Complete Web Developer Course",
+     "uni3":"Udemy.com",
+     "year3":"2016-2017",
+     "edu4":"Information Technology Bridging Program (ITB)",
+     "uni4":"CCIS & SAIT",
+     "course":"Courses include:",
+
+		"c6":"● 16 weeks-occupational skills upgrading and employment preparation training",
+        
+      "sait":"SAIT training in",
+      
+		"c7":"● Probability and Queuing Theory",
+		"c8":"● Database Management Systems",
+		"c9":"● Theory of Computation",
+        
+     "year4":"2018",
+     "work":"WORK EXPERIENCE",
+     "position":"Supervisor",
+     "year5":"2015-2018",
+     "experience":"● Gained leadership and customer service 
+     skills - managed 2 to 6 people at a time, trained them in daily activities and tended 
+     to customers and handled the till"
+     }
